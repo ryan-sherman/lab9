@@ -1,0 +1,6 @@
+library(arulesViz)
+plot(rules.sorted)
+plot(rules.all, method="grouped")
+plot(rules.all, method="graph")
+plot(rules.all, method="graph", control=list(type="items"))
+plot(rules.all, method="paracoord", control=list(reorder=TRUE))

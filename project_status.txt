@@ -1,0 +1,2 @@
+Our group, OpenJavascriptWhiteboard, has come across a github project that has implemented a significant part of
+our ambitions.  Our objective now is to contribute meaningfully to this project.
